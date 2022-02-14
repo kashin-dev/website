@@ -102,6 +102,10 @@
   image: "immobiliarelabs.svg"
   link: "https://labs.immobiliare.it"
 
+- name: "Kashin"
+  image: "kashin.svg"
+  link: "https://kashin.app"
+
 - name: "Knock"
   image: "knock.svg"
   link: "https://www.knock.com"
